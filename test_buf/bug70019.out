@@ -1,0 +1,5 @@
+Fatal error: Uncaught InvalidArgumentException: Invalid argument, /root/PHP/test_buf/bug70019.zip cannot be found in /root/PHP/test_buf/bug70019.php:7
+Stack trace:
+#0 /root/PHP/test_buf/bug70019.php(7): PharData->extractTo('/root/PHP/test_...')
+#1 {main}
+  thrown in /root/PHP/test_buf/bug70019.php on line 7
