@@ -8,6 +8,11 @@
 # STEP 3: make install
 ######################
 
+## --help example:
+#  --with-apxs2=FILE       Build shared Apache 2.0 Handler module. FILE is the optional
+#  --with-litespeed        Build PHP as litespeed module
+#  --enable-dba            Build DBA with bundled modules. To build shared DBA
+
 ##Uncomment if you don't know where is your PHP7!
 #INSTALL_DIR=$HOME/usr/bin/php7
 INSTALL_DIR=/usr/bin/php7
