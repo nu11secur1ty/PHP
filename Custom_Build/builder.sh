@@ -8,7 +8,7 @@
 # STEP 3: make install
 ######################
 
-# Uncomment if you don't know whereis your PHP7!
+#  Uncomment if you don't know where is your PHP7!
 #INSTALL_DIR=$HOME/usr/bin/php7
 INSTALL_DIR=/usr/bin/php7
 
