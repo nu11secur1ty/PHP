@@ -2,7 +2,7 @@
 <!-- Version : 0.01 -->
 <!-- First development date : 2012/07/31 -->
 <!-- This Version development date : 2012/07/31 -->
-<!-- Moded on : 2022/10/05 -->
+<!-- Moded on and working with PHP 8 : 2022/10/05 -->
 <!-- language : html, css, javascript, php -->
 <!-- Developer : majorPE -->
 <!-- Web site : http://blog.naver.com/xornrbboy -->
